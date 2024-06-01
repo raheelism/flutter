@@ -4,6 +4,9 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
 
 **UI Enhancements & Widgets:**
 
+- **flutter_native_splash:**  Customize Flutter's default white native splash screen with background color and splash image. Supports dark mode, full screen, and more.
+    - [https://pub.dev/packages/flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+- **animations:**  A powerful Flutter animation library for creating custom implicit animations. 
 - **flutter_spinkit:**  A collection of loading indicators animated with Flutter.
     - [https://pub.dev/packages/flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
 - **animations:**  A powerful Flutter animation library for creating custom implicit animations. 
@@ -26,10 +29,17 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
     - [https://pub.dev/packages/toggle_switch](https://pub.dev/packages/toggle_switch)
 - **flutter_animate:**  A performant library that makes it simple to add almost any kind of animated effect in Flutter.
     - [https://pub.dev/packages/flutter_animate](https://pub.dev/packages/flutter_animate)
+- **fl_chart:** A highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
+    - [https://pub.dev/packages/fl_chart](https://pub.dev/packages/fl_chart)
+
+
 
 
 **Networking & API Interaction:**
 
+
+- **http:** A composable, multi-platform, Future-based API for HTTP requests.
+    - [https://pub.dev/packages/http](https://pub.dev/packages/http)
 - **retrofit:**   Type-safe REST client for Dart inspired by Retrofit. 
     - [https://pub.dev/packages/retrofit](https://pub.dev/packages/retrofit)
 - **graphql_flutter:**  A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to your fingertips.
