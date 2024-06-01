@@ -36,6 +36,13 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
     - [https://pub.dev/packages/graphql_flutter](https://pub.dev/packages/graphql_flutter)
 - **web_socket_channel:**  A WebSocket client for Flutter, providing a StreamChannel interface. 
     - [https://pub.dev/packages/web_socket_channel](https://pub.dev/packages/web_socket_channel)
+- **dio:**  A powerful HTTP networking package for Dart/Flutter, supports Global configuration, Interceptors, FormData, Request cancellation, File uploading/downloading, Timeout, Custom adapters, Transformers, etc.
+    - [https://pub.dev/packages/dio](https://pub.dev/packages/dio)
+- **serverpod:**  Serverpod is a next-generation app and web server, built for the Flutter community. It allows you to write your server-side code in Dart, automatically generate your APIs, and hook up your database with minimal effort. Serverpod is open-source, and you can host your server anywhere.
+    - [https://pub.dev/packages/serverpod](https://pub.dev/packages/serverpod)
+
+
+
 
 **State Management & Architecture:**
 
