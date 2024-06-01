@@ -22,6 +22,11 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
     - [https://pub.dev/packages/flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)
 - **font_awesome_flutter:**  The Font Awesome Icon pack available as Flutter Icons. Provides almost all the commonly used icons.
     - [https://pub.dev/packages/font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+- **toggle_switch:**  A simple toggle switch widget. It can be fully customized with desired icons, width, colors, text, corner radius, animation etc. It also maintains selection state.
+    - [https://pub.dev/packages/font_awesome_flutter](https://pub.dev/packages/toggle_switch)
+- **flutter_animate:**  A performant library that makes it simple to add almost any kind of animated effect in Flutter.
+    - [https://pub.dev/packages/font_awesome_flutter](https://pub.dev/packages/flutter_animate)
+
 
 **Networking & API Interaction:**
 
