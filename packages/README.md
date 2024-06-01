@@ -42,7 +42,7 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
 - **mobx:**  Effortlessly manage the state of your application with MobX. 
     - [https://pub.dev/packages/mobx](https://pub.dev/packages/mobx)
 - **provider:**  A wrapper around InheritedWidget to make them easier to use and more reusable.
-    - [https://pub.dev/packages/mobx](https://pub.dev/packages/provider)
+    - [https://pub.dev/packages/provider](https://pub.dev/packages/provider)
 - **stacked:**  A Flutter architectural pattern that uses the power of composability to simplify app development.
     - [https://pub.dev/packages/stacked](https://pub.dev/packages/stacked)
 - **get:**  A simplified reactive state management solution for Flutter. 
@@ -58,7 +58,16 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
     - [https://pub.dev/packages/drift](https://pub.dev/packages/drift)
 - **sembast:**  A NoSQL persistent store inspired by IndexedDB for mobile (Flutter, mobile, web)
     - [https://pub.dev/packages/sembast](https://pub.dev/packages/sembast)
-
+- **flutter_secure_storage:**  A Flutter plugin to store data in secure storage
+    - [https://pub.dev/packages/flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage)
+- **get_storage:**  A fast, extra light and synchronous key-value in memory, which backs up data to disk at each operation.
+    - [https://pub.dev/packages/get_storage](https://pub.dev/packages/get_storage)\
+- **shared_preferences:**  Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
+    - [https://pub.dev/packages/shared_preferences](https://pub.dev/packages/shared_preferences)
+- **hive:**  Hive is a lightweight and blazing fast key-value database written in pure Dart.
+    - [https://pub.dev/packages/hive](https://pub.dev/packages/hive)
+ 
+  
 **Background Tasks & Scheduling:**
 
 - **android_alarm_manager_plus:**  A Flutter plugin for scheduling Android alarms.
