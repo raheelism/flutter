@@ -2,7 +2,6 @@
 
 A comprehensive list of free Flutter resources for beginners to advanced developers. Whether you're just starting out or looking to expand your knowledge, this guide has something for you.
 
-![Flutter](flutter.png)
 
 ## Content
 
