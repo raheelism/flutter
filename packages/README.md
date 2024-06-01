@@ -31,6 +31,10 @@ Here's an expanded list of popular and indispensable Flutter packages, categoriz
     - [https://pub.dev/packages/flutter_animate](https://pub.dev/packages/flutter_animate)
 - **fl_chart:** A highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
     - [https://pub.dev/packages/fl_chart](https://pub.dev/packages/fl_chart)
+- **flutter_svg:**  An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
+    - [https://pub.dev/packages/flutter_svg](https://pub.dev/packages/flutter_svg)
+- **google_fonts:**  A Flutter package to use fonts from fonts.google.com. Supports HTTP fetching, caching, and asset bundling.
+    - [https://pub.dev/packages/google_fonts](https://pub.dev/packages/google_fonts)
 
 
 
