@@ -37,7 +37,6 @@ This curated list of articles aims to guide you through your Flutter journey, st
 **Navigation and Routing**
 
 * **[Navigation and Routing in Flutter](https://flutter.dev/docs/cookbook/navigation)**: Learn how to navigate between different screens in your app.
-* **[Flutter Navigator 2.0](https://medium.com/flutter/announcing-flutter-navigation-2-0-906b043c93ae)**: Explore the new declarative navigation system in Flutter.
 
 **Working with Data**
 
